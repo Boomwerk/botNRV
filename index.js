@@ -1,5 +1,5 @@
 //require a keyDiscord
-const keyDiscord = require('./info');
+const keyDiscord = process.env.token;
 // require discord.js
 const discord = require('discord.js');
 
