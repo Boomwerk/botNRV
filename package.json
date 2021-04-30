@@ -1,0 +1,23 @@
+{
+  "name": "botnrv",
+  "version": "1.0.0",
+  "description": "BotDiscordNRV",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boomwerk/botNRV.git"
+  },
+  "author": "Boomwerk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boomwerk/botNRV/issues"
+  },
+  "homepage": "https://github.com/Boomwerk/botNRV#readme"
+}
