@@ -1,6 +1,6 @@
 {
   "name": "botnrv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BotDiscordNRV",
   "main": "index.js",
   "dependencies": {

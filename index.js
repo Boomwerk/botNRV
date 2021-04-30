@@ -27,7 +27,7 @@ client.on("message", (msg)=>{
     });
     // if mention is yannis13.6Sang , the bot send a message
     if(mention[0] === "yannis13.6Sang"){
-        const google = ["https://tenor.com/view/google-logo-gif-7538369", "https://tenor.com/view/you-need-google-google-gif-16220073", "https://tenor.com/view/google-work-burn-ouf-burger-gif-14151440", "https://tenor.com/view/gulu-gulu-google-gif-14812757","https://tenor.com/view/google-it-look-it-up-pissed-angry-shouting-gif-11214431", "https://tenor.com/view/goff-dropshipping-discord-d%C3%A9butant-google-gif-20559757"];
+        const google = ["https://tenor.com/view/google-logo-gif-7538369", "https://tenor.com/view/you-need-google-google-gif-16220073", "https://tenor.com/view/google-work-burn-ouf-burger-gif-14151440", "https://tenor.com/view/gulu-gulu-google-gif-14812757","https://tenor.com/view/google-it-look-it-up-pissed-angry-shouting-gif-11214431", "https://tenor.com/view/goff-dropshipping-discord-d%C3%A9butant-google-gif-20559757", "https://tenor.com/view/google-it-just-google-it-google-lazy-do-it-yourself-gif-17344697", "https://tenor.com/view/google-it-just-google-it-google-lazy-do-it-yourself-gif-17344697", "https://tenor.com/view/norman-google-gif-10362590","https://tenor.com/view/google-gif-19016623"];
 
         let randomNumber = randomInteger(0, google.length);
 
