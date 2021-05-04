@@ -38,7 +38,7 @@ client.on("message", (msg)=>{
         const nrv = ["https://tenor.com/view/funny-cut-throat-black-and-white-im-gonna-kill-you-kill-you-gif-7390009", "https://tenor.com/view/punch-dwarf-gif-5261161", "https://tenor.com/view/fighting-punch-fight-gif-13599924", "https://tenor.com/view/mzansigif-swing-by-hair-hair-girl-fight-south-africa-gif-18122551", "https://tenor.com/view/sword-fight-samurai-sharp-gif-13444139", "https://tenor.com/view/dean-winchester-punch-mad-angry-gif-13850258", "https://tenor.com/view/broly-goku-fight-ice-anime-gif-16208768", "https://tenor.com/view/dbz-goku-o0-fight-counterpunch-gif-13785219"];
         let randomNumber = randomInteger(0, nrv.length);
         msg.channel.send("ne me montionne pas sinon");
-        msg.channel.send(+ nrv[randomNumber]);
+        msg.channel.send(nrv[randomNumber]);
     
     }
     let reg = new RegExp("yannis");
